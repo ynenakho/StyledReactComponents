@@ -52,10 +52,10 @@ class NavBar extends Component {
           <li>
             <div className="user-view">
               <div className="background">
-                <img src="admin-img/ocean.jpg" alt="" />
+                <img src="/admin-img/ocean.jpg" alt="" />
               </div>
               <a href="#!">
-                <img src="admin-img/person1.jpg" className="circle" alt="" />
+                <img src="/admin-img/person1.jpg" className="circle" alt="" />
               </a>
               <a href="#!">
                 <span className="name white-text">John Doe</span>

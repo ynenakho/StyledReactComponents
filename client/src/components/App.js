@@ -4,6 +4,7 @@ import Main from './Main';
 import TravelWebPage from './TravelWebPage/TravelWebPage';
 import CloudHostingPage from './CloudHostingPage/CloudHostingPage';
 import AdminPage from './AdminPage/AdminPage';
+import 'materialize-css/dist/css/materialize.min.css';
 
 // import PostsPage from './AdminPage/PostsPage';
 // import CategoriesPage from './AdminPage/CategoriesPage';
