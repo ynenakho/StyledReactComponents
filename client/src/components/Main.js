@@ -28,12 +28,12 @@ class Main extends Component {
             <Link
               style={{ margin: '20px' }}
               className="btn btn-large"
-              to="/travel"
+              to="/admin"
             >
-              Travel Web Page
+              Admin Page
             </Link>
           </div>
-          <div className="col s12 center">
+          {/* <div className="col s12 center">
             <Link
               style={{ margin: '20px' }}
               className="btn btn-large"
@@ -50,7 +50,7 @@ class Main extends Component {
             >
               Travel Web Page
             </Link>
-          </div>
+          </div> */}
         </div>
       </div>
     );
