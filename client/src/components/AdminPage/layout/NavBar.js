@@ -26,7 +26,7 @@ class NavBar extends Component {
               </a>
               <ul className="right hide-on-med-and-down">
                 <li>
-                  <Link to="/admin">Dashboard</Link>
+                  <Link to="/admin/dashboard">Dashboard</Link>
                 </li>
                 <li>
                   <Link to="/admin/posts">Posts</Link>
@@ -66,7 +66,7 @@ class NavBar extends Component {
             </div>
           </li>
           <li>
-            <Link to="/admin">
+            <Link to="/admin/dashboard">
               <i className="material-icons">dashboard</i>
               Dashboard
             </Link>
